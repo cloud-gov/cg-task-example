@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["cron", "cloud"],
+  "keywords": [
+    "cron",
+    "cloud"
+  ],
   "author": "Mark Headd (mark.headd@gsa.gov)",
   "license": "ISC",
   "dependencies": {

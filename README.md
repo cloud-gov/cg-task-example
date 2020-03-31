@@ -4,7 +4,7 @@ This is an example of a one-off task that can be run on cloud.gov. More on how t
 
 ## Usage
 
-To run this app locally, use `npm start`. To deploy to cloud.gov, use the instructions below:
+To run this app locally, use `npm install` and `npm start`. To deploy to cloud.gov, use the instructions below:
 
 ```bash
 ~$ cf push -f manifest.yml --health-check-type none --no-route
